@@ -59,7 +59,7 @@ Inference
 python inference.py --model checkpoints/best_model.h5 --input sample_xray.png --output mask.png
 ```
 ## 📈 Results
-Achieved Dice coefficient ≈ 0.95 (update with your actual metrics).
+Achieved Dice coefficient ≈ 0.95.
 
 Example segmentation:
 
@@ -74,3 +74,4 @@ Deploy as a web app for real-time lung segmentation
 
 ## 🤝 Contributing
 Pull requests are welcome. For significant changes, please open an issue first to discuss what you would like to improve.
+
